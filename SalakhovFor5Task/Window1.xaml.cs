@@ -23,5 +23,15 @@ namespace SalakhovFor5Task
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void TextBlock_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
